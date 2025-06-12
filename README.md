@@ -1,7 +1,5 @@
 # STIG Compliance Program Implementation
 
-STIG Compliance Program Implementation Project
-
 In this project, we simulate the implementation of a comprehensive 
 STIG compliance program for a DoD contractor environment.
 

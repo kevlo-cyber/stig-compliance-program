@@ -11,9 +11,38 @@ A comprehensive demonstration of implementing Security Technical Implementation 
 - [Phase 3: Pilot Implementation](#phase-3-pilot-implementation)
 - [Phase 4: Results & Future Roadmap](#phase-4-results--future-roadmap)
 
+## 🛠️ Technologies Used
+
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Tenable](https://img.shields.io/badge/Tenable.io-00A3E0?style=for-the-badge&logo=tenable&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![SCCM](https://img.shields.io/badge/Microsoft%20SCCM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62B366?style=for-the-badge&logo=servicenow&logoColor=white)
+
+- **Tenable.io** - Automated STIG compliance scanning
+- **PowerShell** - Remediation script automation
+- **Microsoft SCCM/MECM** - Enterprise deployment platform
+- **ServiceNow** - Change management and ticketing
+- **DISA STIG Viewer** - Manual finding analysis
+
 ## Executive Summary
 
 Following the successful implementation of our vulnerability management program, LogN Pacific identified the need to establish formal STIG compliance procedures. This initiative was driven by new contractual requirements with government clients and our commitment to maintaining industry-leading security standards. This project documents our phased approach to implementing STIG compliance across our Windows infrastructure.
+
+### 📊 Project Impact at a Glance
+
+<div align="center">
+
+| Metric | Result |
+|--------|--------|
+| **Compliance Improvement** | ⬆️ 3.8% (36% → 39.7%) |
+| **Automation Success Rate** | 🚀 99.6% (498/500 systems) |
+| **Projected Annual Savings** | 💰 $85,000 |
+| **Implementation Timeline** | ⏱️ 4 weeks |
+| **Systems Impacted** | 💻 500 endpoints |
+| **User Issues Reported** | 👥 7 tickets (all resolved) |
+
+</div>
 
 ## Understanding STIGs
 

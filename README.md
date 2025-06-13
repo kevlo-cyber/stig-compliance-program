@@ -49,7 +49,7 @@ This phase focuses on drafting a comprehensive STIG Compliance Policy as the fou
 | **Compliance** | Risk-based prioritization | Mandatory DoD requirements |
 | **Documentation** | Scan reports, patch records | ATO packages, compliance evidence |
 
-[Draft Policy](link-to-your-policy-document)
+[Draft Policy](https://docs.google.com/document/d/1SGvdBBxNLzyEyMFMLnpl6cB4cqjgaKypqxL-qpino8o/edit?tab=t.0#heading=h.oo3jgk9t31gg)
 
 ### Next Steps
 1. **Stakeholder Review**: Share draft policy with server team, system administrators, and management

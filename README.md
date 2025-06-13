@@ -518,10 +518,10 @@ The journey from 36% to 39.7% compliance represents just the beginning. By follo
 
 ### Project Artifacts
 
-- [STIG Compliance Policy](https://docs.google.com/document/d/YOUR_DOCUMENT_ID_HERE)
-- [Individual STIG Remediation Scripts](https://github.com/yourusername/stig-remediation-scripts)
-- [Pilot Program Metrics Dashboard](link-to-dashboard)
-- [Executive Presentation](link-to-presentation)
+- [STIG Compliance Policy](https://docs.google.com/document/d/1-BdXo2ivppf426dlk0CeGcnmpdqRET3oprL0yoFcV4g/edit?usp=sharing) - *Formal policy establishing STIG compliance requirements*
+- [Implementation Checklist](https://docs.google.com/document/d/1LwPEEhYhOedJe_lUc_0-MRF2ImNkCc3N8S6RzmWCKPY/edit?usp=sharing) - *Step-by-step deployment guide used during pilot*
+- [Lessons Learned Document](https://docs.google.com/document/d/1nZeNMxPno4PjUTfee_WP1ix54-e4p1rC9Sal5i15P4U/edit?usp=sharing) - *Key takeaways and recommendations from pilot program*
+- [Before/After Compliance Report](https://docs.google.com/document/d/1x6MMF8imPQ23DcADiI1sigWZvUQMuVAvIlU-8dKBjNg/edit?usp=sharing) - *Detailed analysis of compliance improvements*
 
 ### Contact
 

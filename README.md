@@ -531,7 +531,3 @@ For questions about this implementation or to discuss STIG compliance strategies
 
 ---
 *Project completed: July 2025 | LogN Pacific Information Security Team*
-
-***UNDER CONSTRUCTION***
-
-![image](https://github.com/user-attachments/assets/23a26854-f70e-49c8-8dbf-0891069f6dc0)

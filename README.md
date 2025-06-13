@@ -526,9 +526,8 @@ The journey from 36% to 39.7% compliance represents just the beginning. By follo
 ### Contact
 
 For questions about this implementation or to discuss STIG compliance strategies:
-- **Security Operations**: secops@lognpacific.com
-- **Project Lead**: [Your Name]
-- **Repository**: [This GitHub Project]
+- **Project Lead**: Kevin Lopez
+- **Repository**: https://github.com/kevlo-cyber/stig-compliance-program
 
 ---
 *Project completed: July 2025 | LogN Pacific Information Security Team*

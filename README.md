@@ -215,7 +215,7 @@ The finalized STIG Compliance Policy is effective immediately upon executive app
 - **Compliance Validation**: Internal Audit and Risk Management
 - **Exception Authority**: CISO and CTO joint approval required
 
-[Finalized STIG Compliance Policy](link-to-finalized-policy-document)
+[Finalized STIG Compliance Policy](https://docs.google.com/document/d/1-BdXo2ivppf426dlk0CeGcnmpdqRET3oprL0yoFcV4g/edit?tab=t.0)
 
 ### Next Phase: Implementation Planning
 

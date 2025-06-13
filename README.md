@@ -112,6 +112,8 @@ With our STIG Compliance Policy approved by executive leadership, LogN Pacific p
 
 **[Initial STIG Compliance Scan](https://drive.google.com/file/d/1sRf8dFhMMZOPNkFZ8Uo_VzFnBRn9cMDk/view?usp=sharing)**
 
+![image](https://github.com/user-attachments/assets/fb5aa369-6b31-4f8d-b026-501e95cea52a)
+
 **Baseline Compliance Metrics:**
 - **Total Checks**: 262
 - **Failed**: 152 (58%)
@@ -374,6 +376,8 @@ Based on pilot results, the Information Security team recommended:
 Following the successful completion of our pilot program, we conducted a comprehensive reassessment on July 15, 2025, to measure the effectiveness of our remediation efforts.
 
 **[Post-Remediation STIG Compliance Scan](https://drive.google.com/file/d/1H_b8smQ1Qgy0cXVWQZJQGShgYAJyqaID/view?usp=sharing)**
+
+![image](https://github.com/user-attachments/assets/cda68287-ec6a-4314-8734-7e0a0ee0e96e)
 
 **Post-Pilot Compliance Metrics:**
 - **Total Checks**: 262

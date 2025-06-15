@@ -264,16 +264,16 @@ Individual PowerShell remediation scripts were developed for each pilot STIG. Ea
 
 | STIG ID | Title | Severity | Script |
 |---------|-------|----------|--------|
-| WN10-CC-000038 | Disable WDigest Authentication | CAT I | [View Script →](https://github.com/kevlo-cyber/vulnerability-remediations/blob/main/remediation-STIG-ID-WN10-CC-000038.ps1) |
-| WN10-CC-000325 | Disable Auto-Restart Sign-On | CAT I | [View Script →](https://github.com/kevlo-cyber/vulnerability-remediations/blob/main/remediation-STIG-ID-WN10-CC-000325.ps1) |
-| WN10-CC-000370 | Disable Convenience PIN | CAT II | [View Script →](https://github.com/kevlo-cyber/vulnerability-remediations/blob/main/remediation-STIG-ID-WN10-CC-000370.ps1) |
-| WN10-CC-000005 | Disable Lock Screen Camera | CAT II | [View Script →](https://github.com/kevlo-cyber/vulnerability-remediations/blob/main/remediation-STIG-ID-WN10-CC-000005.ps1) |
-| WN10-CC-000365 | Disable Voice Activation | CAT II | [View Script →](https://github.com/kevlo-cyber/vulnerability-remediations/blob/main/remediation-STIG-ID-WN10-CC-000365.ps1) |
-| WN10-CC-000205 | Configure Telemetry Settings | CAT II | [View Script →](https://github.com/kevlo-cyber/vulnerability-remediations/blob/main/remediation-STIG-ID-WN10-CC-000205.ps1) |
-| WN10-SO-000185 | Disable PKU2U Authentication | CAT II | [View Script →](https://github.com/kevlo-cyber/vulnerability-remediations/blob/main/remediation-STIG-ID-WN10-SO-000185.ps1) |
-| WN10-CC-000170 | Microsoft Accounts Optional | CAT II | [View Script →](https://github.com/kevlo-cyber/vulnerability-remediations/blob/main/remediation-STIG-ID-WN10-CC-000170.ps1) |
-| WN10-CC-000197 | Disable Consumer Features | CAT III | [View Script →](https://github.com/kevlo-cyber/vulnerability-remediations/blob/main/remediation-STIG-ID-WN10-CC-000197.ps1) |
-| WN10-SO-000080 | Configure Legal Notice | CAT III | [View Script →](https://github.com/kevlo-cyber/vulnerability-remediations/blob/main/remediation-STIG-ID-WN10-SO-000080.ps1) |
+| WN10-CC-000038 | Disable WDigest Authentication | CAT I | [View Script →](https://github.com/kevlo-cyber/win10-stig-compliance-scripts/blob/main/scripts/WN10-CC-000038.ps1) |
+| WN10-CC-000325 | Disable Auto-Restart Sign-On | CAT I | [View Script →](https://github.com/kevlo-cyber/win10-stig-compliance-scripts/blob/main/scripts/WN10-CC-000325.ps1) |
+| WN10-CC-000370 | Disable Convenience PIN | CAT II | [View Script →](https://github.com/kevlo-cyber/win10-stig-compliance-scripts/blob/main/scripts/WN10-CC-000370.ps1) |
+| WN10-CC-000005 | Disable Lock Screen Camera | CAT II | [View Script →](https://github.com/kevlo-cyber/win10-stig-compliance-scripts/blob/main/scripts/WN10-CC-000005.ps1) |
+| WN10-CC-000365 | Disable Voice Activation | CAT II | [View Script →](https://github.com/kevlo-cyber/win10-stig-compliance-scripts/blob/main/scripts/WN10-CC-000365.ps1) |
+| WN10-CC-000205 | Configure Telemetry Settings | CAT II | [View Script →](https://github.com/kevlo-cyber/win10-stig-compliance-scripts/blob/main/scripts/WN10-CC-000205.ps1) |
+| WN10-SO-000185 | Disable PKU2U Authentication | CAT II | [View Script →](https://github.com/kevlo-cyber/win10-stig-compliance-scripts/blob/main/scripts/WN10-SO-000185.ps1) |
+| WN10-CC-000170 | Microsoft Accounts Optional | CAT II | [View Script →](https://github.com/kevlo-cyber/win10-stig-compliance-scripts/blob/main/scripts/WN10-CC-000170.ps1) |
+| WN10-CC-000197 | Disable Consumer Features | CAT III | [View Script →](https://github.com/kevlo-cyber/win10-stig-compliance-scripts/blob/main/scripts/WN10-CC-000197.ps1) |
+| WN10-SO-000080 | Configure Legal Notice | CAT III | [View Script →](https://github.com/kevlo-cyber/win10-stig-compliance-scripts/blob/main/scripts/WN10-SO-000080.ps1) |
 
 ### Change Management Process
 

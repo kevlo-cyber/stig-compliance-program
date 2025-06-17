@@ -383,7 +383,7 @@ The pilot successfully demonstrated that:
 
 On July 11, 2025, the pilot results were presented to LogN Pacific's executive team. Based on the 99.6% success rate and minimal business impact, the following approvals were granted:
 
-- **Sandra Lui (CISO)**: Approved expansion to 50 additional STIGs
+- **Sandra Liu (CISO)**: Approved expansion to 50 additional STIGs
 - **Fred Smooch (CIO)**: Allocated resources for automation team
 - **Mad Hatter (CEO)**: Endorsed Q3 2025 full rollout plan
 
